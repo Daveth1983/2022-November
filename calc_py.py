@@ -10,7 +10,7 @@ def ask_for_a_number(force_valid_input):
                 return None
             print("This didn't look like a number, try again.")
 
-
+#komentarz
 def is_number(str):
     try:
         float(str)
